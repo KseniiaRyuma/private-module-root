@@ -11,5 +11,5 @@ variable "name" {
 }
 
 variable "owner" {
-  default = "kseniia"
+  default = "ks"
 }
